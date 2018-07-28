@@ -1,0 +1,55 @@
+logging:
+  level:
+    com.gamesys.challenge: INFO
+
+
+books-properties:
+  books:
+    -
+      title: Moby Dick
+      year: 1851
+      price: 15.20
+    -
+      title: The Terrible Privacy of Maxwell Sim
+      year: 2010
+      price: 13.14
+    -
+      title: Still Life With Woodpecker
+      year: 1980
+      price: 11.05
+    -
+      title: Sleeping Murder
+      year: 1976
+      price: 10.24
+    -
+      title: Three Men in a Boat
+      year: 1889
+      price: 12.87
+    -
+      title: The Time Machine
+      year: 1895
+      price: 10.43
+    -
+      title: The Caves of Steel
+      year: 1954
+      price: 8.12
+    -
+      title: Idle Thoughts of an Idle Fellow
+      year: 1886
+      price: 7.32
+    -
+      title: A Christmas Carol
+      year: 1843
+      price: 4.23
+    -
+      title: A Tale of Two Cities
+      year: 1859
+      price: 6.32
+    -
+      title: Great Expectations
+      year: 1861
+      price: 13.21
+    -
+      title: Harry Potter and the Goblet of Fire
+      year: 2000
+      price: 3.85
